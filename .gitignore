@@ -2,3 +2,9 @@
 *.drawio
 *.drawio.*
 *.docx 
+test.*
+test/
+__pycache__/
+dev01
+dev02
+*.txt

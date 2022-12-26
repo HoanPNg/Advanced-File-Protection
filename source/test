@@ -1,0 +1,10 @@
+import helper
+import os
+
+os.system('cls')
+
+
+print(helper.readFile("R_Etest.txt"))
+print("================================")
+print(helper.readFileWithRandom("R_Etest.txt"))
+print(len(helper.readFileWithRandom("R_Etest.txt")))
